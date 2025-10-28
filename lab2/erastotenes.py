@@ -1,3 +1,5 @@
+# Parallel implementation of  Eratosthenes sieve
+
 import math
 from math import floor
 

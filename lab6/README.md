@@ -1,0 +1,1 @@
+Parallel implementation of branch and bound algorithm for solving the traveling salesman problem.
